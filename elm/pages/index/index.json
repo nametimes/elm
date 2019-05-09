@@ -1,3 +1,5 @@
 {
-  "usingComponents": {}
+  "usingComponents": {
+    "index1": "../../component/index/index1/index1"
+  }
 }
