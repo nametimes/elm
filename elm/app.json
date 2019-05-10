@@ -1,6 +1,7 @@
 {
   "pages":[
     "pages/index/index",
+    "component/index/Notice/Notice",
     "pages/logs/logs"
   ],
   "window":{
